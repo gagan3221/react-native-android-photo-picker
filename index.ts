@@ -1,7 +1,7 @@
 import {
     OptionsInterface,
     StatusConstantsInterface,
-  } from "./PhotoPickerTypes.ts";
+  } from "./src/types/PhotoPickerTypes.ts";
   import { NativeModules } from "react-native";
   
   const { PhotoPicker } = NativeModules;
@@ -17,4 +17,4 @@ import {
   
   export { PhotoPicker, StatusConstants };
   
-  export * from "./PhotoPickerTypes.ts";
+  export * from "./src/types/PhotoPickerTypes.ts";

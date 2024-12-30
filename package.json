@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gagannn3211",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.76.5"
+  }
 }
