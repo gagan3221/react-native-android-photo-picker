@@ -1,0 +1,11 @@
+{
+  "name": "react-native-android-photo-picker",
+  "version": "1.0.0",
+  "description": "React native library to use Android photo picker native module by google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gagannn3211",
+  "license": "ISC"
+}
