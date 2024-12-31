@@ -1,4 +1,4 @@
-package com.yourappname.app
+package com.ImagePickerModule
 
 object PhotoPickerConstants {
     const val PACKAGE_NAME = "PhotoPicker"

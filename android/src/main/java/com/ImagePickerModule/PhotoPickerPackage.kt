@@ -1,4 +1,4 @@
-package com.yourappname.app
+package com.ImagePickerModule
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule

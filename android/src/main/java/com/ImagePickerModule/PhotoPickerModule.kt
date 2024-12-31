@@ -1,4 +1,4 @@
-package com.yourappname.app
+package com.ImagePickerModule
 
 import android.app.Activity
 import android.content.Intent
