@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-photo-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React native library to use Android photo picker native module by google",
   "main": "index.js",
   "scripts": {
