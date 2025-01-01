@@ -1,7 +1,7 @@
 {
   "name": "react-native-android-photo-picker",
-  "version": "1.0.1",
-  "description": "React native library to use Android photo picker native module by google",
+  "version": "1.0.2",
+  "description": "React native library to use Android photo picker native module by Google",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "react-native": "^0.76.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gagan3221/react-native-android-photo-picker.git"
   }
 }
